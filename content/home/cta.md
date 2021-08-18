@@ -9,5 +9,8 @@ active: true
 design:
   columns: "1"
 ---
+THIS IS THE DESCRITPION OF THE SIITE
+
+
 
 {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
