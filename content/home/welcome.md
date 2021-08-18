@@ -2,9 +2,9 @@
 widget: hero
 widget_id: Welcome!
 headless: true
-weight: 10
-title: Gomez-Gualdron Research Group
-subtitle: Computational Design of Materials for Energy Applications - CoDeMatE Lab
+weight: 5
+title: Computational Design of Materials for Energy Applications - CoDeMatE Lab
+subtitle: 
 active: true
 design:
   columns: "1"
