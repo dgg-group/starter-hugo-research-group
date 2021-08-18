@@ -2,7 +2,7 @@
 widget: hero
 widget_id: Welcome!
 headless: true
-weight: 5
+weight: 1
 title: Computational Design of Materials for Energy Applications - CoDeMatE Lab
 subtitle: 
 active: true
