@@ -5,7 +5,7 @@ headless: true
 weight: 10
 title: Gomez-Gualdron Research Group
 subtitle: Computational Design of Materials for Energy Applications - CoDeMatE Lab
-active: true
+active: false
 design:
   columns: "1"
   css_style: null
