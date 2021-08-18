@@ -1,23 +1,17 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget: hero  # See https://wowchemy.com/docs/page-builder/
-headless: true  # This file represents a page section.
-weight: 10  # Order that this section will appear.
-title: |
-  Wowchemy  
-  Research Group
-hero_media: welcome.jpg
+widget: hero
+widget_id: Welcome!
+headless: true
+weight: 10
+title: Gomez-Gualdron Research Group
+subtitle: Computational Design of Materials for Energy Applications - CoDeMatE Lab
+active: true
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
+  columns: "1"
+  css_style: null
+  css_class: null
+hero_media: welcome.jpg
 ---
-
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+At the CoDe MaTE Lab computers are our friends. We use and develop computational methods to accelerate the discovery of combinatorial crystals  for energy and environmental applications. By "combinatorial crystals" we mean crystalline materials that can be conceptually thought of as a combination of interchangeable  chemical "building blocks" mapped onto well-defined geometrical patterns. Examples include emerging materials such as metal-organic frameworks (MOFs) and more established ones such as metal alloys. In the case of MOFs, the building blocks are organic linkers and inorganic clusters, while for metal alloys the building blocks are atoms. Their combinatorics means that there could be millions of different variations of these crystals, whose properties depends on the exact chemistry and geometrical arrangement of their building blocks. Exploring all these combinations by solely by traditional synthesis and experimental testing is untractable. By using a variety of computational methods, the CoDe MaTE Lab aims to anticipate the properties of combinatorial crystals before their synthesis is even attempted. This way we help experimentalist to focus their efforts on compositions that have a higher probability to present groundbreaking properties. We also help experimentalists gain  a deeper understanding of materials they have already synthesized and tested by using molecular simulation as an atomic-resolution "theoretical microscope," which can examine relevant phenomena at the nanoscale.
