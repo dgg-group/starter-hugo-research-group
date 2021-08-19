@@ -25,6 +25,10 @@ design:
 At CoDeMaTE Lab computers are our friends. We use and develop **computational methods to accelerate the discovery** of combinatorial crystals  for **energy & environmental applications**.
 By "combinatorial crystals" we mean crystalline materials that can be conceptually thought of as a combination of interchangeable  chemical "building blocks" mapped onto well-defined geometrical patterns.
 
-{% include callout.html content="This is my callout. It has a border on the left whose color you define by passing a type parameter. I typically use this style of callout when I have more information that I want to share, often spanning multiple paragraphs. " type="primary" %} 
+{{% callout note %}}
+This homepage section is an example of adding [elements](https://wowchemy.com/docs/content/writing-markdown-latex/) to the [*Blank* widget](https://wowchemy.com/docs/getting-started/page-builder/).
+
+Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
+{{% /callout %}}
 
 Examples include emerging materials such as metal-organic frameworks (MOFs) and more established ones such as metal alloys. In the case of MOFs, the building blocks are organic linkers and inorganic clusters, while for metal alloys the building blocks are atoms. Their combinatorics means that there could be millions of different variations of these crystals, whose properties depends on the exact chemistry and geometrical arrangement of their building blocks. Exploring all these combinations by solely by traditional synthesis and experimental testing is untractable. By using a variety of computational methods, the CoDe MaTE Lab aims to anticipate the properties of combinatorial crystals before their synthesis is even attempted. This way we help experimentalist to focus their efforts on compositions that have a higher probability to present groundbreaking properties. We also help experimentalists gain  a deeper understanding of materials they have already synthesized and tested by using molecular simulation as an atomic-resolution "theoretical microscope," which can examine relevant phenomena at the nanoscale.
