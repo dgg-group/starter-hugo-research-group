@@ -2,13 +2,13 @@
 widget: blank
 widget_id: Welcome!
 headless: true
-weight: 70
-title: CoDeMatE Lab
-subtitle: null
+weight: 10
+title: Computational Design of Materials for Energy Applications
+subtitle: CoDeMatE Lab
 active: true
 design:
   columns: "1"
 ---
-THIS IS THE DESCRITPION OF THE SITE
+Welcome!
 
-{{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+# {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
