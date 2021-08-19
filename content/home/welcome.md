@@ -9,7 +9,7 @@ active: true
 design:
   columns: "2"
   background:
-    image: coders.jpg
+    image: code.jpg
     image_darken: 1.0
     image_parallax: true
     image_position: center
