@@ -21,7 +21,9 @@ design:
   # css_class: null
  # blank_media: welcome.jpg
 ---
-> At CoDeMaTE Lab computers are our friends. We use and develop [**computational methods to accelerate the discovery**] of combinatorial crystals  for **energy & environmental applications**.
+
+{{< hl >}} At CoDeMaTE Lab computers are our friends. We use and develop **computational methods to accelerate the discovery** of combinatorial crystals  for **energy & environmental applications**.{{< /hl >}}
+
 By "combinatorial crystals" we mean crystalline materials that can be conceptually thought of as a combination of interchangeable  chemical "building blocks" mapped onto well-defined geometrical patterns.
 
 
