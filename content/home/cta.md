@@ -9,6 +9,3 @@ active: true
 design:
   columns: "1"
 ---
-Welcome!
-
-# {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
