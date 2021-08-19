@@ -1,36 +1,36 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Diego Gómez-Gualdron
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor Chemical and Biological Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Colorado School of Mines
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed ... CREATE NEW AWESOME MATERILAS.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- New Materials
+- Catalisis
+- Machine Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Postdoctoral Studies
+    institution: Northwestern University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Materials Science
+    institution: Texas A&M University
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: BSc in Chemical Engineering
+    institution: Universidad Industrial de Santander
     year: 2008
 
 # Social/Academic Networking
