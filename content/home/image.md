@@ -10,13 +10,13 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 200
+weight: 500
 
 title:
 subtitle:
 
 design:
-  columns: "2"
+  columns: "1"
   background:
     image: welcome.jpg
     image_darken: 0
