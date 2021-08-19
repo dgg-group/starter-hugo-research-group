@@ -16,11 +16,11 @@ title:
 subtitle:
 
 design:
-  columns: "1"
+  columns: "2"
   background:
     image: welcome.png
     image_darken: 0
-    image_parallax: false
+    image_parallax: true
     image_position: center
     image_size: cover
     text_color_light: true
