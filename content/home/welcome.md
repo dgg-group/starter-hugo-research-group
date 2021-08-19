@@ -25,7 +25,7 @@ design:
 At CoDeMaTE Lab computers are our friends. We use and develop **computational methods to accelerate the discovery** of combinatorial crystals  for **energy & environmental applications**.
 By "combinatorial crystals" we mean crystalline materials that can be conceptually thought of as a combination of interchangeable  chemical "building blocks" mapped onto well-defined geometrical patterns.
 
-{{% callout note %}}
+{{% callout %}}
 This homepage section is an example of adding [elements](https://wowchemy.com/docs/content/writing-markdown-latex/) to the [*Blank* widget](https://wowchemy.com/docs/getting-started/page-builder/).
 
 Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
