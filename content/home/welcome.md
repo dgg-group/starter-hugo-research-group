@@ -8,8 +8,17 @@ subtitle: CoDeMatE Lab
 active: true
 design:
   columns: "1"
-  css_style: null
-  css_class: null
+  background:
+    image: welcome.jpg
+    image_darken: 1.0
+    image_parallax: true
+    image_position: center
+    image_size: cover
+    text_color_light: false
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
+  # css_style: null
+  # css_class: null
  # blank_media: welcome.jpg
   image: coders.jpg
 ---
