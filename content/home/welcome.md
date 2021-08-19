@@ -2,7 +2,7 @@
 widget: blank
 widget_id: Welcome!
 headless: true
-weight: 30
+weight: 10
 title: Computational Design of Materials for Energy Applications
 subtitle: 
 active: true
@@ -10,7 +10,7 @@ design:
   columns: "1"
   css_style: null
   css_class: null
-hero_media: welcome.jpg
+# hero_media: welcome.jpg
 ---
 <br>
 At the Computational Design of Materials for Energy Applications - CoDe MaTE Lab - computers are our friends. We use and develop computational methods to accelerate the discovery of combinatorial crystals  for energy and environmental applications.
