@@ -2,6 +2,7 @@
 # Guide: https://wowchemy.com/docs/getting-started/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+# https://gomezgualdron-lab.netlify.app. site URL
 
 title: Gomez-Gualdron Research Group # Website name
 baseurl: '' # Website URL
