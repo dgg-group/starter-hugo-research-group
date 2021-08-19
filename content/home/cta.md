@@ -2,7 +2,7 @@
 widget: blank
 widget_id: Welcome!
 headless: true
-weight: 50
+weight: 70
 title: CoDeMatE Lab
 subtitle: null
 active: true
