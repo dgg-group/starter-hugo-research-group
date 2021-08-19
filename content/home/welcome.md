@@ -10,7 +10,7 @@ design:
   columns: "1"
   css_style: null
   css_class: null
-hero_media:
+hero_media: welcome.jpeg
 ---
 <br>
 At the Computational Design of Materials for Energy Applications - CoDe MaTE Lab - computers are our friends. We use and develop computational methods to accelerate the discovery of combinatorial crystals  for energy and environmental applications. By "combinatorial crystals" we mean crystalline materials that can be conceptually thought of as a combination of interchangeable  chemical "building blocks" mapped onto well-defined geometrical patterns. Examples include emerging materials such as metal-organic frameworks (MOFs) and more established ones such as metal alloys. 
