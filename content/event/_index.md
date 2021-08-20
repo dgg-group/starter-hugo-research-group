@@ -10,7 +10,7 @@ design:
   columns: "1"
   spacing:
     padding: ["20px", "0", "5px", "0"]
-
+---
 # title: Current Projects
 
 # View.
@@ -23,4 +23,4 @@ design:
 # header:
   # caption: ""
   # image: ""
----
+
