@@ -24,15 +24,15 @@ abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 # Schedule page publish date (NOT talk date).
 # publishDate: "2017-01-01T00:00:00Z"
 
-authors: []
-tags: []
+# authors: []
+# tags: []
 
 # Is this a featured talk? (true/false)
 # featured: false
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  # focal_point: Right
 
 url_code: ""
 url_pdf: ""
@@ -44,7 +44,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides:
+# slides:
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
